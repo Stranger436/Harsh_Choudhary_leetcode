@@ -70,9 +70,22 @@
 ## Design
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0901-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0460-lfu-cache) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
