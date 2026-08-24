@@ -8,6 +8,7 @@
 | [0239-sliding-window-maximum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,4 +93,12 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0460-lfu-cache) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
