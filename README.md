@@ -11,6 +11,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@
 | [0904-fruit-into-baskets](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0460-lfu-cache](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -111,4 +114,9 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
