@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0904-fruit-into-baskets) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0904-fruit-into-baskets) |
