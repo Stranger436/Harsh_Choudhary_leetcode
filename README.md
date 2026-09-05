@@ -15,6 +15,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3904-smallest-stable-index-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3904-smallest-stable-index-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
