@@ -19,6 +19,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
@@ -47,6 +48,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -143,4 +145,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
