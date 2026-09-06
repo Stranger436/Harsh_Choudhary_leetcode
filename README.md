@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0040-combination-sum-ii) |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0735-asteroid-collision) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0040-combination-sum-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
