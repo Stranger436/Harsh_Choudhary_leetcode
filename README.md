@@ -25,6 +25,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -55,6 +56,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -159,6 +161,7 @@
 | [0039-combination-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
