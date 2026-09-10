@@ -30,12 +30,14 @@
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -64,12 +66,14 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0402-remove-k-digits](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Matrix
@@ -175,6 +179,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
