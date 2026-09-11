@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0090-subsets-ii) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0131-palindrome-partitioning) |
@@ -73,6 +75,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0455-assign-cookies) |
