@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0090-subsets-ii) |
@@ -200,10 +201,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
