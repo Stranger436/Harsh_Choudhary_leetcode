@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0735-asteroid-collision) |
@@ -213,4 +214,16 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
