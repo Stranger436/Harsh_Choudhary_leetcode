@@ -12,6 +12,7 @@
 | [0057-insert-interval](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0239-sliding-window-maximum) |
@@ -142,6 +143,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0460-lfu-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -231,6 +233,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -268,6 +271,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -304,4 +308,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
