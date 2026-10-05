@@ -55,6 +55,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
 | ------- |
@@ -451,12 +452,14 @@
 | [0785-is-graph-bipartite](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -486,8 +489,10 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Stranger436/Harsh_Choudhary_leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
